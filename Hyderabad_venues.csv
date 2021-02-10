@@ -8,16 +8,16 @@ id,name,categories,lat,lng,address,tipcount,like_count,rating,ratingSignals
 4e735a87ae6050af79d6a44f,Gokul Chat,Chat Place,17.39786036,78.49270045,,5,8,7.8,13
 4ccfaeb76449a093d133c6cf,Almond House,Dessert Shop,17.40131934,78.48587224,"(Chaitanya Muppala) Lingapur Building,Himayath Nagar",5,9,8,15
 4f66024de4b0777dfdc91dde,Cream Stone Concepts,Ice Cream Shop,17.4042836,78.48145783,Himayathnagar,23,88,8.3,115
-4ea4a1b0490102dac389e3dd,Ram ki Bandi,Chat place,17.38239773,78.47501407,Opp Karachi bakery,27,71,8,108
+4ea4a1b0490102dac389e3dd,Ram ki Bandi,Chat place,17.38239773,78.47501407,Opp Karachi bakery,27,71,5,108
 4c642d01eb82d13a1fa809d6,Shadaab,Diner,17.36866112,78.47557242,,47,95,8.4,139
 4c08f54f6071a5934901dd32,Nizam club,Lounge,17.40322092,78.4687291,Saifabad,9,24,8.4,33
-4bdebd29be5120a17e98fe70,Cafe Bahar,Indian Restaurant,17.39959528,78.47856582,"3-5-815, Hyderguda",49,90,7.7,139
-4d401a6dde17a093daedf46b,Gokul Chat Center,Chat Place,17.38471608,78.48315239,"4-5-158/4, Women's College Road, KOTI",20,47,7.3,70
+4bdebd29be5120a17e98fe70,Cafe Bahar,Indian Restaurant,17.39959528,78.47856582,"3-5-815, Hyderguda",49,90,5.7,139
+4d401a6dde17a093daedf46b,Gokul Chat Center,Chat Place,17.38471608,78.48315239,"4-5-158/4, Women's College Road, KOTI",20,47,5.3,70
 4cc19bfb67a3b1f77a8dc90e,Chowmahala Palace,History Museum,17.35929974,78.47161741,"Moti Gali, Charminar",27,110,8.8,139
-4d5fa5f7e4fe54815a51769e,Famous Ice Cream,Ice Cream Shop,17.38432063,78.47479577,"Beside Mozamjahi Market, Abids",18,33,7.5,51
+4d5fa5f7e4fe54815a51769e,Famous Ice Cream,Ice Cream Shop,17.38432063,78.47479577,"Beside Mozamjahi Market, Abids",18,33,4.5,51
 4da53ba4fa8cf9bcc87a5c2c,Laxman Ki Bandi,South Indian Restaurant,17.37889459,78.46397328,,7,4,8.1,10
-4be06fbf4c55b651426feab7,Taj Mahal Hotel,Hotel,17.3919419,78.47691532,"4-1-999, Abidi Road Chirag Ali Road",17,63,7.3,90
-4fa68083e4b094b9471759b1,Subhan Bakery,Bakery,17.39241151,78.46471161,,5,19,7.8,23
+4be06fbf4c55b651426feab7,Taj Mahal Hotel,Hotel,17.3919419,78.47691532,"4-1-999, Abidi Road Chirag Ali Road",17,6357.3,90
+4fa68083e4b094b9471759b1,Subhan Bakery,Bakery,17.39241151,78.46471161,,5,19,6.8,23
 4d5fadf029ef236a85a09b59,Cafe Niloufer & Bakers,Café,17.39971498,78.46288085,"Red Hills Rd, Opp Hanuman Temple",20,47,7.9,69
 4bc894f22f94d13a1ee1137f,Bawarchi,Indian Restaurant,17.40636912,78.49766215,RTC X Rds,52,137,7.4,205
 4e2e144eae60231c0320106a,Govind Ki Idly,South Indian Restaurant,17.36413201,78.47377107,Charminar,13,20,7.7,32
@@ -28,25 +28,25 @@ id,name,categories,lat,lng,address,tipcount,like_count,rating,ratingSignals
 4bc95d44fb84c9b6d5101b3e,Salar Jung Museum,History Museum,17.37177288,78.48063609,Hafzalgunj,25,105,7.3,144
 4e089859a809495e619fa4d7,Necklace Road,Scenic Lookout,17.41938355,78.46530663,Tank Bund,16,55,8.4,69
 4c87cbb25df9bfb7677a3263,Pista house,Indian Restaurant,17.35660939,78.47363711,Shalibanda,15,23,7.9,37
-4e3d6c54aeb73139a17867a4,Mings Court,Chinese Restaurant,17.40487191,78.47656252,Ohris Basheerbagh,5,7,7.4,13
+4e3d6c54aeb73139a17867a4,Mings Court,Chinese Restaurant,17.40487191,78.47656252,Ohris Basheerbagh,5,7,6.4,13
 4cdd171822bd721e96f5fe47,Santosh Dabha,Diner,17.39120903,78.47757538,"4-1-967/7 & 970, Ahuja Estate,",10,12,7.1,22
 4d048e1a9d33a143c8fcbb78,Birla Science Museum,Science Museum,17.40385352,78.46945707,,2,14,7.5,19
 513afb90e4b04d69fd7cc3c7,Okra Restaurant,Restaurant,17.42381663,78.48725663,Opposite Hussain Sagar Lake,6,19,8,26
-51c18dc6498ecc58d1f958b2,Mayur Pan Shop Himayatnagar,Restaurant,17.40097482,78.48550862,,4,6,7.1,10
+51c18dc6498ecc58d1f958b2,Mayur Pan Shop Himayatnagar,Restaurant,17.40097482,78.48550862,,4,6,4.1,10
 4e42c77445ddae899d09cb15,Hotel Shah Ghouse,Snack Place,17.34789913,78.47098648,Shahalibanda,13,32,8.5,50
-56f6cd1dcd106d63a069c738,Chicha's,Hyderabadi Restaurant,17.40325496,78.46015158,,5,14,7.8,18
+56f6cd1dcd106d63a069c738,Chicha's,Hyderabadi Restaurant,17.40325496,78.46015158,,5,14,9.8,18
 4e4d3c5b52b1075a6394d7cd,Hotel Sohail,Indian Restaurant,17.37282923,78.49929806,,13,30,7.1,44
 4d15e2fb8312236aedc154ba,The Chocolate Room,Coffee Shop,17.40161691,78.48540276,"Shop No.3-4, Ground Flr, Zee Plaza",7,12,7.1,21
-4dd21ef0b0fb0becaf915de0,McDonald's,Fast Food Restaurant,17.4011623,78.48650915,"House No.3-6-562, Himayat Nagar Road, Beside Alto Trade Center",7,32,7.1,44
-53cf6be6498e3ae4a3273bda,Grand Hotel,Indian Restaurant,17.38776016,78.47757721,Abids,3,7,7,9
+4dd21ef0b0fb0becaf915de0,McDonald's,Fast Food Restaurant,17.4011623,78.48650915,"House No.3-6-562, Himayat Nagar Road, Beside Alto Trade Center",7,32,4.1,44
+53cf6be6498e3ae4a3273bda,Grand Hotel,Indian Restaurant,17.38776016,78.47757721,Abids,3,7,5,9
 4d54c49916a6b60cb49243f8,Tank Bund,Lake,17.4090186,78.477395,,20,70,7.4,96
 4e65c231e4cdf1e2c0b3e42a,Mohini Restaurant,Chat Indian Restaurant,17.40192622,78.476153,,10,11,7.2,21
 4e368182b61cddd1cd482c90,Bombay Juice,Juice Bar,17.38796766,78.4807789,Bank Street Koti,5,10,6.9,19
 4e1d712415207c4cbec540bd,Charminar,Monument / Landmark,17.36155458,78.47467661,Old City,63,189,7.5,263
 4bd1491a462cb713770dda07,Abid's,Neighborhood,17.39054345,78.47572447,,3,12,7,16
 4cee68185de16ea83896bb96,Devi 70 MM,Movie Theater,17.40632866,78.49540915,RTC X ROADS,6,8,7.1,14
-4f9b8bdce4b0ec21f4be7c3f,creamstone,Ice Cream Shop,17.39965236,78.49189029,himayathnagar,1,6,6.9,8
+4f9b8bdce4b0ec21f4be7c3f,creamstone,Ice Cream Shop,17.39965236,78.49189029,himayathnagar,1,6,4.9,8
 53ee0f6f498e013a31a899e7,Spice 6,Bistro,17.40900704,78.45055865,"Opposite Ruosh, Road No. 1, Banjara Hills",5,19,8,26
 4fe1c402e4b074c0cc534794,D Mart,Department Store,17.37114674,78.50504635,Naga Anasuya Arcade,6,10,7.1,15
-4d05a093dc45a093b04bf0c6,Rahul tiffins & fast food centre,Breakfast Spot,17.40318457,78.48006955,"Sno - 3-6-20/12/13, tirumala apartments , himayath",6,7,7,13
+4d05a093dc45a093b04bf0c6,Rahul tiffins & fast food centre,Breakfast Spot,17.40318457,78.48006955,"Sno - 3-6-20/12/13, tirumala apartments , himayath",6,7,5,13
 5048b6d5e4b08065929b6eb1,Paradise Food Court,Indian Restaurant,17.41211297,78.46544328,Beside Prasadz,31,98,7.5,138
